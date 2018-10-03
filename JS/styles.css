@@ -2,3 +2,16 @@ body {
   background-color: black;
 
 }
+
+.nav {
+  justify-content: center;
+}
+
+.responsive {
+    width: 100%;
+    height: auto;
+}
+
+hr {
+  border: .4px solid white;
+}
